@@ -34,14 +34,14 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.23'
 created: '2026-07-17'
-modified: '2026-07-20'
+modified: '2026-09-15'
 x-status: defunct
-x-status-note: 'Foodspotting was acquired by OpenTable in 2013 and shut down May 25,
-  2018. The domain foodspotting.com no longer resolves (no A record), api.foodspotting.com
-  is offline, and no first-party API, docs, SDK, or package surface remains. Enrichment
-  found no live API artifacts to capture.'
+x-status-note: Foodspotting was acquired by OpenTable in 2013 and shut down May 25, 2018. The domain foodspotting.com
+  no longer resolves (no A record), api.foodspotting.com is offline, and no first-party API, docs, SDK,
+  or package surface remains. Enrichment found no live API artifacts to capture.
 tags:
 - Company
+- Defunct
 apis: []
 maintainers:
 - FN: Kin Lane
